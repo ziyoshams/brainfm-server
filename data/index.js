@@ -4,7 +4,7 @@ module.exports = {
       id: 1,
       text:
         "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.",
-      title: "Sphaeralcea coccinea (Nutt.) Rydb. ssp. coccinea",
+      title: "Sphaeralcea coccinea",
       date: "1569368058"
     },
     {

@@ -1,10 +1,12 @@
 const express = require("express");
 const helmet = require("helmet");
+const cors = require("cors");
 const { boards } = require("./routes/boards");
 
 const app = express();
 const PORT = process.env.PORT || 3003;
 
+app.use(cors());
 app.use(helmet());
 
 app.get("/", (req, res) => {
